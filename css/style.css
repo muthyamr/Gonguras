@@ -290,6 +290,12 @@ a:hover{
 	padding-bottom:10px;
 }
 
+.navbar-left {
+	align-items: left;
+	/*background: url("../images/logo.png");*/
+	font-size: 30px;
+}
+
 
 
 /* Banner section */
